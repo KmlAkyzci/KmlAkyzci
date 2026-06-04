@@ -35,29 +35,21 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/snake-output/snake.svg" alt="Snake animation" />
+
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/stats-output/stats.svg" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/languages-output/languages.svg" height="150" alt="languages graph" /> <br>
-  <img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
-
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/pacman-output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
 
 <div align="center">
   <img src="https://count.getloli.com/@:KmlAkyzci?theme=3d-num&padding=6&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
+
+
 
 ###
 
