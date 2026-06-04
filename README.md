@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**KmlAkyzci/KmlAkyzci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Merhaba! 👋 Ben Kamil
 
-Here are some ideas to get you started:
+Frontend yolculuğunda gelişmekte olan bir web geliştiricisiyim. Modern arayüzler ve işlevsel web uygulamaları geliştirmeye tutkuyla bağlıyım.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Kullandığım Teknolojiler
+- **Diller:** JavaScript (ES6+), TypeScript
+- **Frontend:** React, Tailwind CSS, HTML5, CSS3
+- **Araçlar:** Git, VS Code
+
+### 🚀 Güncel Projelerim
+- **[Film Arama Uygulaması]:** OMDB API kullanarak geliştirdiğim, film arama ve detay listeleme uygulaması. 
+- **[To-Do-List]:** React ve Tailwind CSS ile hazırladığım görev yönetim aracı.
+
+📫 Bana ulaşmak için: [LinkedIn profilim](https://www.linkedin.com/in/kamilakyzc61)
