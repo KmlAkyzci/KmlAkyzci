@@ -53,7 +53,7 @@ No activity tracked
 ### 
 
 <p align="center">
-<details>
+<details style="display: inline-block; text-align: left;">
   <summary><b>🔍 Developer's Secret of the Day (Click to Reveal)</b></summary>
   <br />
   <p align="center">
