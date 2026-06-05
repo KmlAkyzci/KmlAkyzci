@@ -34,6 +34,18 @@
   </a>
 </div>
 
+
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 04 June 2026 - To: 04 June 2026
+
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
 <div align="center">
 <details>
   <summary style="list-style: none; display: block; cursor: pointer;">
@@ -45,15 +57,6 @@
 </details>
 </div>
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 04 June 2026 - To: 04 June 2026
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 ###
 
