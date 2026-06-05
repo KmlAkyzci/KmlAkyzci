@@ -52,7 +52,7 @@ No activity tracked
     <b>🔽 🔍 Developer's Secret of the Day (Click to Reveal)</b>
   </summary>
   <br />
-  <i><b>"Talk is cheap. Show me to Code"</b></i> 😎 <br />
+  <i>"Talk is cheap. Show me to Code"</i> 😎 <br />
   
 </details>
 </div>
