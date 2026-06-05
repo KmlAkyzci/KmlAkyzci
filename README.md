@@ -63,6 +63,16 @@ No activity tracked
 </p>
 </p>
 
+<p align="center">
+<details>
+  <summary><b>🔍 Günün Eğlenceli Yazılımcı Sırrı (Tıkla ve Aç)</b></summary>
+  <br />
+  <p align="center">
+    <i>"Bir yazılımcının en mutlu anı, kodun neden çalıştığını bilmediği ama çalıştığı o andır."</i> 😎 <br />
+    <b>Durum:</b> Kahve içildi, kodlar pushlandı! 🚀
+  </p>
+</details>
+</p>
 
 
 ###
