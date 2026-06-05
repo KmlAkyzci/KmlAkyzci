@@ -53,7 +53,9 @@ No activity tracked
 ### 
 
 <p align="center">
-  <img src="https://github-readme-joke.vercel.app/api?theme=dracula&support_markdown=true" alt="Dev Joke" />
+  <blockquote>
+    <p align="center"><i>"Talk is cheap. Show me the code."</i> — Linus Torvalds</p>
+  </blockquote>
 </p>
 
 
