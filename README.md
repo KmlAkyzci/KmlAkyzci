@@ -34,6 +34,17 @@
   </a>
 </div>
 
+<div align="center">
+<details>
+  <summary style="list-style: none; display: block; cursor: pointer;">
+    <b>🔽 🔍 Developer's Secret of the Day (Click to Reveal)</b>
+  </summary>
+  <br />
+  <i>"A developer's peak euphoria is that precise moment when the code functions flawlessly, yet the underlying reason remains an absolute mystery."</i> 😎 <br />
+  <b>Status:</b> Caffeine synthesized, code successfully deployed! 🚀
+</details>
+</div>
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -52,15 +63,7 @@ No activity tracked
 
 ### 
 
-<center>
-<details style="width: 100%; text-align: center;">
-  <summary style="cursor: pointer; display: inline-block; text-align: center;"><b>🔍 Developer's Secret of the Day (Click to Reveal)</b></summary>
-  <br />
-  <p align="center">
-    <i>"Talk is cheap. Show me the code"</i> 😎 <br />
-  </p>
-</details>
-</center>
+
 
 
 ###
