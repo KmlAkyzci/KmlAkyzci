@@ -53,23 +53,11 @@ No activity tracked
 ### 
 
 <p align="center">
-  <blockquote>
-    <p align="center"><i>"Talk is cheap. Show me the code."</i> — Linus Torvalds</p>
-  </blockquote>
-
-
-  <p align="center">
-  <img src="https://img.shields.io/badge/Günün%20Modu-KOD%20YAZMAK-%23ff5555?style=for-the-badge&labelColor=%23282a36" alt="Status" />
-</p>
-</p>
-
-<p align="center">
 <details>
-  <summary><b>🔍 Günün Eğlenceli Yazılımcı Sırrı (Tıkla ve Aç)</b></summary>
+  <summary><b>🔍 Developer's Secret of the Day (Click to Reveal)</b></summary>
   <br />
   <p align="center">
-    <i>"Bir yazılımcının en mutlu anı, kodun neden çalıştığını bilmediği ama çalıştığı o andır."</i> 😎 <br />
-    <b>Durum:</b> Kahve içildi, kodlar pushlandı! 🚀
+    <i>"Talk is cheap. Show me the code"</i> 😎 <br />
   </p>
 </details>
 </p>
