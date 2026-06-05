@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  ![GitHub Stats](https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/stats-output/stats.svg) ![GitHub Languages](https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/languages-output/languages.svg)
+  ![GitHub Stats](https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/stats-output/stats.svg)
 </div>
 
 ###
