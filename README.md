@@ -42,6 +42,22 @@
 
 ###
 
+
+
+###
+
+
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/pacman-output/pacman-contribution-graph.svg">
@@ -56,13 +72,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
-
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
