@@ -33,6 +33,9 @@
   </a>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ###
 
 <img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/snake-output/snake.svg" alt="Snake animation" />
