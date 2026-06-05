@@ -56,6 +56,11 @@ No activity tracked
   <blockquote>
     <p align="center"><i>"Talk is cheap. Show me the code."</i> — Linus Torvalds</p>
   </blockquote>
+
+
+  <p align="center">
+  <img src="https://img.shields.io/badge/Günün%20Modu-KOD%20YAZMAK-%23ff5555?style=for-the-badge&labelColor=%23282a36" alt="Status" />
+</p>
 </p>
 
 
