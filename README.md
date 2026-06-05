@@ -4,6 +4,10 @@
 
 ###
 
+<h4 align="left">👋 Hello! Welcome to my profile.<br><br>💫 About Me:<br>✨ I am a Web Developer passionate about creating beautiful and intuitive user experiences.<br><br>☕ I am always focused on learning new things and writing clean, reusable code.<br><br>💡 Fun, accessible, open-source projects focusing on modern web design.<br><br>🛠️ My Favorite Tools and Technologies<br>Languages: JavaScript (ES6+), HTML5, CSS3.<br>🌱 Frameworks: React, Tailwind CSS, Bootstrap.<br>💻 Tools Used: VS Code,<br><br>🤝 Projects I'd Like to Collaborate On<br>📢 Anything that will help me improve my situation management skills.<br>📫 Get in Touch<br>🌐 You can find more of my work on my [Portfolio Website].<br>🔗 Let's connect on [LinkedIn]!</h4>
+
+###
+
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="html5 logo"  />
   <img width="12" />
@@ -20,10 +24,6 @@
 
 ###
 
-<h4 align="left">👋 Hello! Welcome to my profile.<br><br>💫 About Me:<br>✨ I am a Web Developer passionate about creating beautiful and intuitive user experiences.<br><br>☕ I am always focused on learning new things and writing clean, reusable code.<br><br>💡 Fun, accessible, open-source projects focusing on modern web design.<br><br>🛠️ My Favorite Tools and Technologies<br>Languages: JavaScript (ES6+), HTML5, CSS3.<br>🌱 Frameworks: React, Tailwind CSS, Bootstrap.<br>💻 Tools Used: VS Code,<br><br>🤝 Projects I'd Like to Collaborate On<br>📢 Anything that will help me improve my situation management skills.<br>📫 Get in Touch<br>🌐 You can find more of my work on my [Portfolio Website].<br>🔗 Let's connect on [LinkedIn]!</h4>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/kamilakyzc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -35,21 +35,29 @@
 
 ###
 
-
-
-###
-
-###
-
 <img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/stats-output/stats.svg" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/languages-output/languages.svg" height="150" alt="languages graph" /> <br>
+  <img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
 <div align="center">
   <img src="https://count.getloli.com/@:KmlAkyzci?theme=3d-num&padding=6&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
-
-
 
 ###
 
