@@ -53,7 +53,7 @@ No activity tracked
 ### 
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
+  <img src="https://github-readme-joke.vercel.app/api?theme=dracula&support_markdown=true" alt="Dev Joke" />
 </p>
 
 
