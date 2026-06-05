@@ -53,8 +53,8 @@ No activity tracked
 ### 
 
 <p align="center">
-<details style="display: inline-block; text-align: left;">
-  <summary><b>🔍 Developer's Secret of the Day (Click to Reveal)</b></summary>
+<details style="display: inline-block;">
+  <summary style="cursor: pointer; text-align: center;"><b>🔍 Developer's Secret of the Day (Click to Reveal)</b></summary>
   <br />
   <p align="center">
     <i>"Talk is cheap. Show me the code"</i> 😎 <br />
