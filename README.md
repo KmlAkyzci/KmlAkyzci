@@ -35,10 +35,9 @@
 
 ###
 
-![GitHub Snake](https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/snake-output/snake.svg)
+<img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/snake-output/snake.svg" alt="Snake animation" />
 
 ###
-
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/stats-output/stats.svg" height="150" alt="stats graph"  />
