@@ -50,6 +50,9 @@ No activity tracked
 
 ###
 
+### 💡 Günün Sözü / Dev Quote
+![](https://github-readme-quotes.vercel.app/api?type=horizontal&theme=dracula)
+
 
 
 ###
