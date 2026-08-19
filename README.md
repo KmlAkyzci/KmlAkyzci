@@ -25,15 +25,7 @@
   <path d="M0.5 12 a11 11 0 0 1 11 -11 h859 a11 11 0 0 1 11 11 v22 h-881 z" fill="#161b22"/>
   <rect x="0.5" y="34" width="881" height="1" fill="#2a3038"/>
   <circle cx="22" cy="17.5" r="6" fill="#ff5f56"/><circle cx="42" cy="17.5" r="6" fill="#ffbd2e"/><circle cx="62" cy="17.5" r="6" fill="#27c93f"/>
-  <text x="441" y="22" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#8b949e">kmlakyzci@github: ~$ ./wordmark.sh --name</text>
-  <g clip-path="url(#wm-kmlakyzci-satan-wipe)">
-    <g opacity="0"><text xml:space="preserve" x="18" y="99.8" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14.3" fill="#c9d1d9">   SSS         SSS      SSSSSSSSS      SSS         SSS   SSSSSSSSSSSSSSS   SSS</text><text xml:space="preserve" x="18" y="115.3" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="14.3" fill="#c9d1d9">  :-``        :+``      :+++++++`      :S`         :S`   
-  <rect y="41.2" width="3" height="263.5" fill="#c9d1d9" opacity="0">
-    <animate attributeName="x" from="18" to="864.4" begin="0.2s" dur="2.1999999999999997s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1"/>
-    <set attributeName="opacity" to="0.9" begin="0.2s"/>
-    <set attributeName="opacity" to="0" begin="2.4s" fill="freeze"/>
-  </rect>
-  <text x="869" y="305" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="10" font-weight="600" letter-spacing="0.3" fill="#8b949e" fill-opacity="0.42">gitskins.com</text>
+  <text x="441" y="22" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" 
 </svg>
  
     
