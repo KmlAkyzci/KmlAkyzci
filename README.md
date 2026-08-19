@@ -70,7 +70,10 @@ JSON         9 mins                ░░░░░░░░░░░░░░░
 
 ### 
 
-
+<div align="left">
+  <img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/KmlAkyzci/KmlAkyzci/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div>
 
 
 ###
