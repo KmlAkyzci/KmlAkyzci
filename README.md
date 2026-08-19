@@ -12,8 +12,8 @@
   🌱 Frameworks: React, Tailwind CSS, Bootstrap.<br>
   💻 Araçlar: Antigravity<br><br>
   📫 Get in Touch<br>
-  🌐 You can find more of my work on my [https://kamilakyazici.netlify.app/].<br>
-  🔗 Let's connect on [https://www.linkedin.com/in/kamilakyzc]!</h4>
+  🌐 Çalışmalarımın daha fazlasını sayfam'da bulabilirsiniz [https://kamilakyazici.netlify.app/].<br>
+  🔗 Linkedin [https://www.linkedin.com/in/kamilakyzc]!</h4>
 
 ###
 
@@ -53,10 +53,11 @@ JSON         9 mins                ░░░░░░░░░░░░░░░
 <div align="center">
 <details>
   <summary style="list-style: none; display: block; cursor: pointer;">
-    <b>🔽 🔍 Developer's Secret of the Day (Click to Reveal)</b>
+    <b>🔽 🔍 Geliştiricinin Günün Sözü (Görmek için tıklayın)</b>
   </summary>
   <br />
-  <i>"Talk is cheap. Show me to Code"</i> 😎 <br />
+  <i>"Sözün değeri yok. Bana kod yazmayı öğret.
+"</i> 😎 <br />
   
 </details>
 </div>
