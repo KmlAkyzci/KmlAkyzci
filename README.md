@@ -1,15 +1,6 @@
 <img width="882" height="316" alt="wordmark" src="https://github.com/user-attachments/assets/77b55de5-b762-4bf9-892e-7f2d463a2b21" /># Hi, I'm Kamil 👋
 
-<img width="860" height="240" alt="hero" src="https://github.com/user-attachments/assets/ed95b486-e5ee-4d9a-b091-867fca015da2" />
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="860" height="240" viewBox="0 0 860 240" role="img" aria-label="GitSkins gs-hero-kmlakyzci-satan-dark section">
-  <defs>
-    <linearGradient id="gs-hero-kmlakyzci-satan-dark-bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#000000"/>
-      <stop offset="54%" stop-color="#280000"/>
-      <stop offset="100%" stop-color="#000000"/>
-    </linearGradient>
-    </defs>
+
 
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="882" height="316" viewBox="0 0 882 316" role="img" aria-label="3D ASCII wordmark: KAMIL">
@@ -28,7 +19,16 @@
   <text x="441" y="22" text-anchor="middle" font-family="ui-monospace,'SF Mono',SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" 
 </svg>
  
-    
+    <img width="860" height="240" alt="hero" src="https://github.com/user-attachments/assets/ed95b486-e5ee-4d9a-b091-867fca015da2" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="860" height="240" viewBox="0 0 860 240" role="img" aria-label="GitSkins gs-hero-kmlakyzci-satan-dark section">
+  <defs>
+    <linearGradient id="gs-hero-kmlakyzci-satan-dark-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="54%" stop-color="#280000"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    </defs>
    
   </g>
 </svg>
