@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">👋Merhaba! Profilime hoş geldiniz..<br><br>💫 Hakkımda:✨Kullanıcı deneyimini güzel ve sezgisel hale getirme konusunda tutkulu bir Web Geliştiricisiyim..<br><br>
+<h4 align="left">👋Merhaba! Profilime hoş geldiniz..<br><br>💫 Hakkımda:<br>✨Kullanıcı deneyimini güzel ve sezgisel hale getirme konusunda tutkulu bir Web Geliştiricisiyim..<br><br>
   ☕Her zaman yeni şeyler öğrenmeye   temiz ve yeniden kullanılabilir kod yazmaya odaklanıyorum.  .<br><br>
   💡 Modern web tasarımına odaklanan eğlenceli, erişilebilir, açık kaynaklı projeler oluşturuyorum.<br><br>
   🛠️En Sevdiğim Araçlar ve Framework<br> 
