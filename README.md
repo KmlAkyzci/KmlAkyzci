@@ -4,8 +4,8 @@
 
 ###
 
-<h4 align="left">👋 Hello! Welcome to my profile.<br><br>💫 About Me:<br>✨ I am a Web Developer passionate about creating beautiful and intuitive user experiences.<br><br>☕ I am always focused on learning new things and writing clean, reusable code.<br><br>💡 Fun, accessible, open-source projects focusing on modern web design.<br><br>🛠️ My Favorite Tools and Technologies<br> 
-  Languages: JavaScript (ES6+), HTML5, CSS3.<br>🌱 Frameworks: React, Tailwind CSS, Bootstrap.<br>💻 Tools Used: VS Code,<br><br>🤝 Projects I'd Like to Collaborate On<br>📢 Anything that will help me improve my situation management skills.<br>📫 Get in Touch<br>🌐 You can find more of my work on my [Portfolio Website].<br>🔗 Let's connect on [LinkedIn]!</h4>
+<h4 align="left">👋Merhaba! Profilime hoş geldiniz..<br><br>💫 Hakkımda:<br>✨Kullanıcı deneyimini güzel ve sezgisel hale getirme konusunda tutkulu bir Web Geliştiricisiyim..<br><br>☕Her zaman yeni şeyler öğrenmeye ve temiz yazmaya odaklanıyorum.  yeniden kullanılabilir kod.<br><br>💡 Modern web tasarımına odaklanan eğlenceli, erişilebilir, açık kaynaklı projeler..<br><br>🛠️En Sevdiğim Araçlar ve Teknolojiler<br> 
+  Yazılım Dilleri: JavaScript (ES6+), HTML5, CSS3.<br>🌱 Frameworks: React, Tailwind CSS, Bootstrap.<br>💻 Tools Used: VS Code,<br><br>🤝 Projects I'd Like to Collaborate On<br>📢 Anything that will help me improve my situation management skills.<br>📫 Get in Touch<br>🌐 You can find more of my work on my [Portfolio Website].<br>🔗 Let's connect on [LinkedIn]!</h4>
 
 ###
 
