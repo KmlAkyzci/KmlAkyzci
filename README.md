@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Header Görseli -->
-![Header](./assets/header.png)
 
 Merhaba, ben **KmlAkyzci**, akılda kalıcı geliştirici konumlandırmasına odaklanmış bir tam yığın geliştiriciyim.
 
@@ -12,7 +11,6 @@ Merhaba, ben **KmlAkyzci**, akılda kalıcı geliştirici konumlandırmasına od
 ### HAKKIMDA
 
 <div align="center">
-  <img src="./assets/about.png" alt="Hakkımda Banner" width="100%" />
 </div>
 
 #### Tam Yığın Geliştirici
@@ -23,7 +21,6 @@ Kısa profil öyküsünü ve konumlandırmayı şekillendirir. Metin, kendinden 
 ### YETENEKLER
 
 <div align="center">
-  <img src="./assets/skills.png" alt="Language Stack" width="100%" />
 </div>
 
 <p align="center">
@@ -39,7 +36,6 @@ Kısa profil öyküsünü ve konumlandırmayı şekillendirir. Metin, kendinden 
 ### PROJELER
 
 <div align="center">
-  <img src="./assets/projects.png" alt="Projeler" width="100%" />
 </div>
 
 <table width="100%">
@@ -62,7 +58,6 @@ Kısa profil öyküsünü ve konumlandırmayı şekillendirir. Metin, kendinden 
 ### RÜZGÂR GİBİ GEÇMEK
 
 <div align="center">
-  <img src="./assets/activity.png" alt="Contribution Activity" width="100%" />
 </div>
 
 ---
@@ -70,7 +65,6 @@ Kısa profil öyküsünü ve konumlandırmayı şekillendirir. Metin, kendinden 
 ### BAĞLAMAK
 
 <div align="center">
-  <img src="./assets/connect.png" alt="İletişim Banner" width="100%" />
 </div>
 
 > Gelin birlikte faydalı bir şeyler inşa edelim.
