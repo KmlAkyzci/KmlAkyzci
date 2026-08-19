@@ -12,27 +12,7 @@
     
     
   </defs>
-  <style>
-    #gs-hero-kmlakyzci-satan-dark .aura-orb-a { animation: gs-hero-kmlakyzci-satan-dark-float-a 9s ease-in-out infinite; }
-    #gs-hero-kmlakyzci-satan-dark .aura-orb-b { animation: gs-hero-kmlakyzci-satan-dark-float-b 11s ease-in-out infinite 1.1s; }
-    #gs-hero-kmlakyzci-satan-dark .aura-orb-c { animation: gs-hero-kmlakyzci-satan-dark-float-c 13s ease-in-out infinite 0.6s; }
-    #gs-hero-kmlakyzci-satan-dark .aura-ring { animation: gs-hero-kmlakyzci-satan-dark-ring 8s ease-in-out infinite; }
-    #gs-hero-kmlakyzci-satan-dark .aura-ring-b { animation: gs-hero-kmlakyzci-satan-dark-ring 10s ease-in-out infinite 1.6s; }
-    #gs-hero-kmlakyzci-satan-dark .aura-chip { animation: gs-hero-kmlakyzci-satan-dark-chip 650ms ease-out both; }
-    #gs-hero-kmlakyzci-satan-dark .aura-cursor { animation: gs-hero-kmlakyzci-satan-dark-cursor 1.1s step-end infinite; }
-    #gs-hero-kmlakyzci-satan-dark .aura-bar { animation: gs-hero-kmlakyzci-satan-dark-bar 1.15s ease-out both; transform-box: fill-box; transform-origin: left; }
-    #gs-hero-kmlakyzci-satan-dark .aura-cell { animation: gs-hero-kmlakyzci-satan-dark-cell 520ms ease-out both; }
-    @keyframes gs-hero-kmlakyzci-satan-dark-cell { from { opacity: 0; transform: translateY(-3px); } to { opacity: 1; transform: translateY(0); } }
-    @keyframes gs-hero-kmlakyzci-satan-dark-float-a { 0%,100% { transform: translate(0,0); opacity: .58; } 50% { transform: translate(28px,-20px); opacity: .86; } }
-    @keyframes gs-hero-kmlakyzci-satan-dark-float-b { 0%,100% { transform: translate(0,0); opacity: .42; } 50% { transform: translate(-24px,18px); opacity: .72; } }
-    @keyframes gs-hero-kmlakyzci-satan-dark-float-c { 0%,100% { transform: translate(0,0) scale(1); opacity: .34; } 50% { transform: translate(18px,-12px) scale(1.18); opacity: .62; } }
-    @keyframes gs-hero-kmlakyzci-satan-dark-ring { 0%,100% { opacity: .06; } 50% { opacity: .22; } }
-    @keyframes gs-hero-kmlakyzci-satan-dark-chip { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
-    @keyframes gs-hero-kmlakyzci-satan-dark-cursor { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
-    @keyframes gs-hero-kmlakyzci-satan-dark-bar { from { transform: scaleX(0); } to { transform: scaleX(1); } }
-  </style>
-  <g id="gs-hero-kmlakyzci-satan-dark">
-    <rect width="860" height="240" rx="20" fill="url(#gs-hero-kmlakyzci-satan-dark-bg)"/>
+ 
     
    
   </g>
