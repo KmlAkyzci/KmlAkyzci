@@ -10,9 +10,7 @@
   🛠️En Sevdiğim Araçlar ve Framework<br> 
   Yazılım Dilleri: JavaScript (ES6+), HTML5, CSS3.<br>
   🌱 Frameworks: React, Tailwind CSS, Bootstrap.<br>
-  💻 Araçlar: VS Code<br><br>
-  🤝 Projects I'd Like to Collaborate On<br>
-  📢 Anything that will help me improve my situation management skills.<br>
+  💻 Araçlar: Antigravity<br><br>
   📫 Get in Touch<br>
   🌐 You can find more of my work on my [https://kamilakyazici.netlify.app/].<br>
   🔗 Let's connect on [https://www.linkedin.com/in/kamilakyzc]!</h4>
@@ -30,7 +28,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="50" alt="premierepro logo"  />
 </div>
 
 ###
