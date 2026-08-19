@@ -11,7 +11,7 @@
   Yazılım Dilleri: JavaScript (ES6+), HTML5, CSS3.<br>
   🌱 Frameworks: React, Tailwind CSS, Bootstrap.<br>
   💻 Araçlar: VS Code<br><br>
-  🤝 Projects I'd Like to Collaborate On<br>📢 Anything that will help me improve my situation management skills.<br>📫 Get in Touch<br>🌐 You can find more of my work on my [https://kamilakyazici.netlify.app/].<br>🔗 Let's connect on [[LinkedIn](https://www.linkedin.com/in/kamilakyzc)]!</h4>
+  🤝 Projects I'd Like to Collaborate On<br>📢 Anything that will help me improve my situation management skills.<br>📫 Get in Touch<br>🌐 You can find more of my work on my [https://kamilakyazici.netlify.app/].<br>🔗 Let's connect on [https://www.linkedin.com/in/kamilakyzc]!</h4>
 
 ###
 
